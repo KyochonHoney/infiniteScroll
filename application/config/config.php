@@ -513,10 +513,3 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
-
-/*sms config */
-
-
-$config['smsid'] = 'diveline1023';
-$config['smskey'] = 'ace7ccfcb9fdc40de67261fc5603ea2a';
-$config['smsphone'] = '010-5591-5382';
